@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T09:27:32.199Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rk4HLlkfkc-MQKLq9rNg" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T09:27:48.763Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="GaL8TiOCRq-A82MIQc_r" version="21.7.5" type="github">
   <diagram name="Stránka-1" id="ZpzkcoT2kwUD5oxD1akg">
     <mxGraphModel dx="1360" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,9 +30,6 @@
         </mxCell>
         <mxCell id="aNQ--ZgeYgyratoj4Bff-6" value="NE" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="aNQ--ZgeYgyratoj4Bff-5">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aNQ--ZgeYgyratoj4Bff-7" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="aNQ--ZgeYgyratoj4Bff-5">
-          <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aNQ--ZgeYgyratoj4Bff-9" value="existuje coservation id mezi uživateli v keydb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
